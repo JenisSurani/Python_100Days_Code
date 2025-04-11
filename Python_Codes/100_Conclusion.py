@@ -1,4 +1,4 @@
-print("Thank you")
+print("Thank you!")
 
 # Author : Jenis Surani
 # Topic  : MultiProcessing
