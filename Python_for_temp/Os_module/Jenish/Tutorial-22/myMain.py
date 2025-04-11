@@ -1,0 +1,1 @@
+print("Hello I am myMain.py file from Tutorial-22 folder")
